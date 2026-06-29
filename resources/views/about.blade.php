@@ -2,7 +2,7 @@
 <html lang="it" data-bs-theme="light">
 
 <head>
-    <title>Home</title>
+    <title>About</title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8" />
@@ -50,7 +50,7 @@
         <div class="jumbotron bg-primary text-white" style="height: 250px;">
             <div class="container h-100 d-flex flex-column justify-content-center">
                 <h1 class="display-3">
-                    Ciao {{ $name }}, Bentornato!
+                    About
                 </h1>
             </div>
         </div>
